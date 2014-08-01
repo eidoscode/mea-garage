@@ -17,7 +17,7 @@ Found a bug? Think that the system should implements a feature? Please fill free
 
 ### Release notes
 
-**08/01/2014 - _1.0.13_**
+**08-01-2014 - _1.0.13_**
 * [Feature] The system should warn that the maintenance is nearby;
 * [Feature] Create User and Pass;
 * [Feature] Improved user profile window;
@@ -28,7 +28,7 @@ Found a bug? Think that the system should implements a feature? Please fill free
 
 
 
-**05/10/2014 - _1.0.12_**
+**05-10-2014 - _1.0.12_**
 * [Feature] Better mail messages;
 * [Feature] Make possible that the user connect usign Google+ account;
 * [Feature] Removed the "name" of the revision;
@@ -42,7 +42,7 @@ Found a bug? Think that the system should implements a feature? Please fill free
 
 
 
-**04/16/2014 - _1.0.10_**
+**04-16-2014 - _1.0.10_**
 * [Feature] System support English and Brazilian Portuguese;
 * [Feature] User access using social networks;
 * [Feature] User can maintain vehicles;
